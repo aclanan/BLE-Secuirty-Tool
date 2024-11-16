@@ -1,4 +1,5 @@
 BLESEC Tool 
+Publisher: Andrew Clanan
 
 This is a BLE scanner using Bluetooth Low Energy Agnostic Klient or 'Bleak', that replaced pybluez. 
 
